@@ -29,3 +29,4 @@
 ||iprofiles.apple.com^$third-party    
 ||mdmenrollment.apple.com^$third-party
 ||vk.company^
+||24smi.org^$third-party
