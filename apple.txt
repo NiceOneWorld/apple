@@ -1,16 +1,16 @@
 !
 !
-! Title: AdGuard DNS filter
-! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
-! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
-! License: https://github.com/AdguardTeam/AdguardSDNSFilter/blob/master/LICENSE
+! Title: apple DNS filter
+! Description: Filter composed of several other filters (apple Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
+! Homepage: https://github.com/NiceOneWorld/
+! License: https://github.com/NiceOneWorld/apple/blob/main/README.md
 ! Last modified: 2023-04-14T06:01:21.400Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.15
+! Compiled by @aNiceOneWorld
 !
 !
-! Source name: AdGuard Base filter ad servers
-! Source: https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt
+! Source name: apple Base filter ad servers
+! Source: https://github.com/NiceOneWorld/apple/edit/main/apple.txt
 !
 !
 ! This section contains the list of third-party advertising networks domains.
