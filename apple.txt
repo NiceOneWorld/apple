@@ -28,4 +28,4 @@
 ||gdmf.apple.com^$third-party    
 ||iprofiles.apple.com^$third-party    
 ||mdmenrollment.apple.com^$third-party
-||vk.company/^$third-party 
+||vk.company^
